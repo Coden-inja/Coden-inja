@@ -39,7 +39,7 @@
 
 ---
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Coden-inja/Coden-inja/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
