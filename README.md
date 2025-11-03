@@ -36,9 +36,10 @@
 
 <h2 align="center">🐍 My Contribution Snake 🐍</h2>
 <p align="center">Watch my contributions slither around the grid!</p>
-<p align="center">
-  <img src="https://github.com/Coden-inja/Coden-inja/raw/output/github-contribution-grid-snake.svg" />
-</p>
+
+---
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
