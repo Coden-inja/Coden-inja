@@ -5,18 +5,13 @@
 <h1 align="center">Hi 👋, I'm Yogesh Kumar</h1>
 <h3 align="center">I build intelligent systems where code, creativity, and human experience connect.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Coden-inja&style=flat-square&color=blueviolet" alt="profile views"/>
-  <img src="https://img.shields.io/badge/💬_Exploring-Agentic_AI_&_System_Design-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Building-HackFast_&_DSCPL-green?style=for-the-badge" />
-</p>
 
 ---
 
 <h2 align="center">🛠️ My Digital Toolkit 🛠️</h2>
 <p align="center">The tools and technologies I use to bring ideas to life.</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,nodejs,express,python,gemini,openai,vercel,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,nodejs,express,python,vercel,git,tensorflow" />
 </p>
 
 ---
@@ -43,27 +38,12 @@
 
 ---
 
-<h2 align="center">✨ My Guiding Principles ✨</h2>
-<p align="center">
-  <strong>Build like a scientist</strong>: <em>Observe, test, refine.</em><br>
-  <strong>Think like a poet</strong>: <em>Find beauty in complexity.</em><br>
-  <strong>Design like nature</strong>: <em>Create adaptive, elegant, and efficient systems.</em>
-</p>
-<p align="center">
-  <strong>⚡ Fun Fact:</strong> If I weren’t coding, I’d be building something invisible — <br>
-  like a belief system, an ecosystem, or an AI with emotions. 🤖💭
-</p>
-
----
-
 <h2 align="center">📫 Let's Connect! 📫</h2>
 <p align="center">Feel free to reach out. I'm always open to discussing new projects, creative ideas, or opportunities.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/yogesh-kumar-299298260/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   &nbsp;&nbsp;
   <a href="https://x.com/Yoges_ai"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://linktr.ee/yogesh.kumar.singh"><img src="https://skillicons.dev/icons?i=linktree" width="40"/></a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/1355463140879499384"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
   &nbsp;&nbsp;
