@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
-
+<img src="github background.gif" width="100%"/>
 <h1 align="center">Hi 👋, I'm Yogesh Kumar</h1>
 <h3 align="center">I build intelligent systems where code, creativity, and human experience connect.</h3>
 
