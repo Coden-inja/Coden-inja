@@ -18,10 +18,12 @@
 
 <h2 align="center">📈 My Digital Footprint 📈</h2>
 <p align="center">A live look at my coding habits and contributions.</p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coden-inja&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coden-inja&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Coden-inja&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coden-inja&theme=radical" height="180" />
 </p>
+
 
 ---
 
@@ -29,7 +31,6 @@
 <h2 align="center">🐍 My Contribution Snake 🐍</h2>
 <p align="center">Watch my contributions slither around the grid!</p>
 
----
 
 ![snake gif](https://github.com/Coden-inja/Coden-inja/raw/output/github-contribution-grid-snake.svg)
 
